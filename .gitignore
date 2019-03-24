@@ -1,0 +1,5 @@
+*.class
+.idea
+.bloop
+target/
+**/.DS_Store
